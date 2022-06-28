@@ -124,7 +124,7 @@ public class ApiConfig {
                             callback.error("解析配置失败");
                         }
                     }
-
+                    "http://192.168.100.1/0625/bc.json"
                     @Override
                     public void onError(Response<String> response) {
                         super.onError(response);
